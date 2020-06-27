@@ -274,7 +274,7 @@ Diurutkan berdasarkan abjad dan dipisahkan berdasarkan tipe
 ### VICTOR SILALAHI
 
 - Creator: Victor Silalahi
-- URL: https://www.youtube.com/c/VictorSilalahi
+- URL: https://www.youtube.com/c/VictorSilalahi/playlists
 - Description: Video pembelajaran programming di javascript dan python
 - Topic Tags: JavaScript, jQuery, ThreeJS, VisJS, ChartJS, PlotlyJS, BabylonJS, Python, Matplotlib, MySQL, Tkinter, Socket, Data Visualization, Graph, 3D
 - Business Model: FREE NO ADS
